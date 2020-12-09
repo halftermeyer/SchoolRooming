@@ -1,2 +1,2 @@
 # SchoolRooming
-Use graph theory to optimize rooming in school
+Using graph data science to optimize rooming in school
