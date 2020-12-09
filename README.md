@@ -1,2 +1,2 @@
 # SchoolRooming
-Using graph data science to optimize rooming in school
+Using graphs to optimize rooming in school
